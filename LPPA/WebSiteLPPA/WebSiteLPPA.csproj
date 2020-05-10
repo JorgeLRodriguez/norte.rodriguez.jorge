@@ -170,6 +170,7 @@
     <Content Include="Views\HTML\Combo.cshtml" />
     <Content Include="Views\CSS\EjercicioC1.cshtml" />
     <Content Include="Views\HTML\ConceptosBasicos1.cshtml" />
+    <Content Include="Views\HTML\ConceptosBasicos2.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

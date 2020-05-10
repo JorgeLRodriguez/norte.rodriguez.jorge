@@ -29,5 +29,9 @@ namespace WebSiteLPPA.Controllers
         {
             return View();
         }
+        public ActionResult ConceptosBasicos2()
+        {
+            return View();
+        }
     }
 }
