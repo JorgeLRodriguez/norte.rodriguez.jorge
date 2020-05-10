@@ -33,5 +33,13 @@ namespace WebSiteLPPA.Controllers
         {
             return View();
         }
+        public ActionResult ConceptosBasicos3()
+        {
+            return View();
+        }
+        public ActionResult ConceptosBasicos3Parte2()
+        {
+            return View();
+        }
     }
 }
