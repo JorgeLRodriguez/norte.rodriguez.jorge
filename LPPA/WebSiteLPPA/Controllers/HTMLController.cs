@@ -13,5 +13,9 @@ namespace WebSiteLPPA.Controllers
         {
             return View();
         }
+        public ActionResult TablasAvanzadas()
+        {
+            return View();
+        }
     }
 }
