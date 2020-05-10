@@ -21,5 +21,9 @@ namespace WebSiteLPPA.Controllers
         {
             return View();
         }
+        public ActionResult Combo()
+        {
+            return View();
+        }
     }
 }

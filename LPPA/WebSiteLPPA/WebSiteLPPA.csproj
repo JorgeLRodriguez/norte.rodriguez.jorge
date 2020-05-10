@@ -166,6 +166,7 @@
     <Content Include="Views\HTML\Tablas.cshtml" />
     <Content Include="Views\HTML\TablasAvanzadas.cshtml" />
     <Content Include="Views\HTML\Listas.cshtml" />
+    <Content Include="Views\HTML\Combo.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
