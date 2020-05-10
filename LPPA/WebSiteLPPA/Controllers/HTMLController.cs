@@ -17,5 +17,9 @@ namespace WebSiteLPPA.Controllers
         {
             return View();
         }
+        public ActionResult Listas()
+        {
+            return View();
+        }
     }
 }
