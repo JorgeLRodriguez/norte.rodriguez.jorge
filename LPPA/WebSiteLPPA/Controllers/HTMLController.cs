@@ -41,5 +41,9 @@ namespace WebSiteLPPA.Controllers
         {
             return View();
         }
+        public ActionResult Enlaces()
+        {
+            return View();
+        }
     }
 }

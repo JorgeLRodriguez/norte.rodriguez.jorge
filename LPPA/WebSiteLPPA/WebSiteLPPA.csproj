@@ -173,6 +173,7 @@
     <Content Include="Views\HTML\ConceptosBasicos2.cshtml" />
     <Content Include="Views\HTML\ConceptosBasicos3.cshtml" />
     <Content Include="Views\HTML\ConceptosBasicos3Parte2.cshtml" />
+    <Content Include="Views\HTML\Enlaces.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
